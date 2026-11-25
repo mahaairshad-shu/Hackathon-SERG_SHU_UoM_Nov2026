@@ -4,8 +4,9 @@ Hackathon code templates
 
 <img width="701" height="180" alt="image" src="https://github.com/user-attachments/assets/e21ee575-f78f-4aa5-8f0e-8e2006ae5c24" />
 
+Find blue trident IMU dataset (renamed) in the following link: https://drive.google.com/drive/folders/1pyOetQrxu6hVb8POFw0x_2XLBRDwlFYE?usp=sharing
 
-Find sample datasets in the following drive link: https://drive.google.com/drive/folders/1LB00l5JgjdjJe5q9lHgKI18L3cUeQUUW?usp=sharing
+Find image processing sample datasets in the following drive link: https://drive.google.com/drive/folders/1LB00l5JgjdjJe5q9lHgKI18L3cUeQUUW?usp=sharing
 
 
 Your collected data can be found here: https://drive.google.com/drive/folders/1pyOetQrxu6hVb8POFw0x_2XLBRDwlFYE?usp=sharing
