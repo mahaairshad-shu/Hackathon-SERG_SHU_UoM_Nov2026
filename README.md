@@ -1,11 +1,12 @@
 <img width="618" height="188" alt="SERG Logo" src="https://github.com/user-attachments/assets/3205cd30-ace5-44c3-8401-531ef3aac2e9" />
 
-Hackathon code templates
-IMU data:
+Hackathon code templates:
+
+##IMU data:
 <img width="1878" height="870" alt="workflow_diagram" src="https://github.com/user-attachments/assets/a3d8d4de-4841-4d26-8b72-c690ecd15161" />
 
 
-Image processing:
+##Image processing:
 <img width="701" height="180" alt="image" src="https://github.com/user-attachments/assets/e21ee575-f78f-4aa5-8f0e-8e2006ae5c24" />
 
 
