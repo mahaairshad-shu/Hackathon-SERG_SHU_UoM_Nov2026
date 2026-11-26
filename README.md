@@ -3,7 +3,7 @@
 
 Hackathon code templates:
 
--> IMU data:
+-> IMU data workflow:
 <img width="1878" height="870" alt="workflow_diagram" src="https://github.com/user-attachments/assets/a3d8d4de-4841-4d26-8b72-c690ecd15161" />
 
 
