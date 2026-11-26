@@ -16,6 +16,19 @@ Hackathon code templates:
 
 Find blue trident IMU dataset (renamed) in the following link: [https://drive.google.com/drive/folders/1pyOetQrxu6hVb8POFw0x_2XLBRDwlFYE?usp=sharing](https://drive.google.com/drive/folders/1tXypBMJvzX9MxmldYzp4tCKAE06Qk7sA?usp=sharing)
 
+
+Mediapipe 3D skeleton model:
+
+<img width="1205" height="649" alt="image" src="https://github.com/user-attachments/assets/c524f043-776b-4ff7-8fd1-c9d412e7c6f6" />
+
+
+YOLO based custom object detection model:
+
+<img width="1196" height="664" alt="image" src="https://github.com/user-attachments/assets/c345a724-6682-4402-85bc-d055fa00a3f0" />
+
+
+
+
 Find image processing sample datasets in the following drive link: https://drive.google.com/drive/folders/1LB00l5JgjdjJe5q9lHgKI18L3cUeQUUW?usp=sharing
 
 
